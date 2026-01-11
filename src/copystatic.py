@@ -1,8 +1,6 @@
 import os,shutil
 
 def remove_dir(path):
-    #to_delete_file= os.listdir(path="/home/ben/workspace/site__generator_boot_dev/public")
-    #print(to_delete_file)
     try:
         shutil.rmtree(path)
     except:

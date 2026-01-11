@@ -1,0 +1,1 @@
+python3 src/main.py "/site__generator_boot_dev"
